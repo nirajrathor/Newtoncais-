@@ -1,4 +1,4 @@
-# Rishav'S Classplus Text Extracter via X-Token or Org*phone_no.
+
 
 ## Deploy To Heroku
 
