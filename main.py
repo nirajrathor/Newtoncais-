@@ -40,7 +40,7 @@ bot = Client(
     bot_token= "6152562853:AAGimPmtvHjqcE8em9iDMH-QAjkM8133P0c"
 )
 
-@bot.on_message(filters.command(["start"]))
+@bot.on_message(filters.command(["Newton"]))
 async def start(bot, update):
        await update.reply_text("Hi i am **Classplus txt Downloader**.\n\n"
                               "**NOW:-** "
